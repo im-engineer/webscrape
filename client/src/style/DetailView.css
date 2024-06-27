@@ -1,0 +1,53 @@
+/* DetailView.css */
+.detail-view {
+    padding: 20px;
+}
+
+.breadcrumbs {
+    margin-bottom: 20px;
+}
+
+.company-info {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.logo-container {
+    flex: 1;
+}
+
+.logo {
+    max-width: 70%;
+}
+
+.description {
+    flex: 2;
+    margin-right: 30px;
+}
+
+.contact-info {
+    flex: 2;
+}
+
+.additional-info {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.details {
+    flex: 1;
+    margin-right: 5rem;
+}
+
+.screenshot {
+    flex: 2;
+}
+
+.screenshot-image {
+    max-width: 100%;
+    max-height: 100vh;
+}
